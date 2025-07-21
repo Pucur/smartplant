@@ -7,6 +7,7 @@ The face changes based on moisture and light levels, cycling through happy, sad,
 ![My SmartPlant setup](https://i.kek.sh/n5YkfYuLbf7.jpg)
 
 </div>
+
 ---
 
 ## Features
