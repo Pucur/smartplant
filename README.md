@@ -2,7 +2,11 @@
 
 This Arduino sketch reads soil moisture and ambient light sensor data, and displays a cute animated face on a 16x2 I2C LCD screen to show the plant's "mood."  
 The face changes based on moisture and light levels, cycling through happy, sad, sleeping, and "dead" expressions.
+<div align="center">
 
+![My SmartPlant setup](https://i.kek.sh/n5YkfYuLbf7.jpg)
+
+</div>
 ---
 
 ## Features
